@@ -42,7 +42,7 @@ namespace Escola_Executar
                 }
                 catch (Exception)
                 {
-                    throw new InvalidCastException("CPF não possuem Letras.");
+                    Console.WriteLine("Indice fora do limite.");
                 }
             }
 
