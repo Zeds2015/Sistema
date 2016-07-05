@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escola_Executar", "Escola_Executar\Escola_Executar.csproj", "{90C2554A-C772-4E90-9653-050A33CC9236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acesso_Professor", "Acesso_Professor\Acesso_Professor.csproj", "{40AB4FA8-AB9A-41F3-837A-A599158AA7FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C2554A-C772-4E90-9653-050A33CC9236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C2554A-C772-4E90-9653-050A33CC9236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C2554A-C772-4E90-9653-050A33CC9236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C2554A-C772-4E90-9653-050A33CC9236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AB4FA8-AB9A-41F3-837A-A599158AA7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AB4FA8-AB9A-41F3-837A-A599158AA7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AB4FA8-AB9A-41F3-837A-A599158AA7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AB4FA8-AB9A-41F3-837A-A599158AA7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
