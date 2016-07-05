@@ -28,6 +28,8 @@ namespace Escola_Executar
                 }
             }
 
+            //Fiz essa gambiarra para o CPF só aceitar números quando uma letra for digitada ele caira nesse bloco try. 
+
             if(gambiarra > 0)
             {
                 try
